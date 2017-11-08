@@ -1,0 +1,43 @@
+Tutor Session Schedule
+
+Session 1 (11/8): Setup, Math functions, Variables, String
+-Setup
+	- Make account in Repl.it
+	- Show how script and shell work
+- Difference between script and shell
+	- script: has code
+	- shell: manages file of code, runs code
+	- use print statements to show on shell
+- Python is space specific and has specific settings to run
+	- syntax: Spelling / grammar of coding language
+	- Examples of code that doesnt run with improper spacing
+	- introduce Print statements
+- Math functions
+	- Using python as calculator: (+, -, (), /, *)
+	- different types of numbers: int, float
+	- special functions
+		- // gets rid of remainder
+		- % remainder
+		- ** is power of 
+	-Review: Pop quiz Math test
+- Variables 
+	-a placeholder of information of same type
+	- "=" is to assign
+	-can be used in math functions
+	-can work with other variables
+	-can be used to hold strings
+	- Review: guess which variable is the highest number
+- String
+	-can be used to represent words with '' or ""
+	- use \ to escape single or double quotes
+	- two strings next to each each are automatically concatenated 
+		- Ex: "john" "doe" => "johndoe"
+	- Strings can have math functions to them
+		- "+" means concatenate
+		- "*" means to multiply the string 
+	-String is basically a list of letters
+		-a list from 0- length
+		- show number system of Strings 
+			-Ex: "Python"[0:2] = "Py"
+			-Ex: "Python"[1] = 2nd position since starts from 0
+	-Review: Mad Libs
